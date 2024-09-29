@@ -1,9 +1,9 @@
-baseURL = "https://joshuacasey.net"
+baseURL = "https://progressivepartyofamerica.us"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Joshua Casey - Online Activist and Streamer"
+title = "Progressive Party of America"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
@@ -12,19 +12,19 @@ theme = "DoIt"
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "https://joshuacasey.net"
+    url = "https://progressivepartyofamerica.us"
     weight = 1
-  [[menu.main]]
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+#  [[menu.main]]
+#    identifier = "posts"
+#    # you can add extra information before the name (HTML format is supported), such as icons
+#    pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Blog"
-    url = "/posts/"
+#    post = ""
+#    name = "Blog"
+#    url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = "Post archive"
-    weight = 2
+#    title = "Post archive"
+#    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "About"
@@ -60,11 +60,11 @@ theme = "DoIt"
   #  DoIt theme version
   version = "0.3.X"
   # website title
-  title = "Joshua Casey - Online Activist and Streamer"
+  title = "Progressive Party of America"
   # site description
-  description = "Joshua is an autistic adult activist that enjoys video games and is passionate about using social media to advocate for the many causes he is passionate about."
+  description = ""
   # site keywords
-  keywords = ["Joshua Casey","Autistic Rights Activist","Human Rights Activist","Gamer","video games","Streamer"]
+  keywords = ["Progressive Party of America", "US political parties", "grassroots movement", "for the people"]
   #  site default theme ("light", "dark", "black", "auto")
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
@@ -75,7 +75,7 @@ theme = "DoIt"
   #  date format
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
-  images = ["/profilepic.jpg"]
+  #images = ["/"]
   #  enable PWA support
   enablePWA = false
   # [Experimental] cache remote images, more info: https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
@@ -85,7 +85,7 @@ theme = "DoIt"
   license = '<a rel="license external nofollow noopener noreffer" target="_blank" href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank">CC BY-NC-ND 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a>'
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "joshuacasey.net"
+    title = "Progressive Party of America"
     # whether to omit favicon resource links
     noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -208,11 +208,11 @@ theme = "DoIt"
       # The filepath is relative to the static or assets directory
       avatarURL = "/profilepic.jpg"
       # URL the avatar links to
-      avatarLinkURL = "https://joshuacasey.net"
+      avatarLinkURL = "https://progressivepartyofamerica.us"
       #  title shown in home page (HTML format is supported)
-      title = "Joshua Casey"
+      title = "Progressive Party of America"
       # subtitle shown in home page
-      subtitle = "Online Activist, Gamer, Streamer"
+      subtitle = "For The People"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
@@ -230,22 +230,22 @@ theme = "DoIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "JoshuaACasey"
-    Linkedin = "joshuaacasey"
+#    GitHub = ""
+#    Linkedin = ""
     Twitter = ""
-#    Instagram = "xxxx"
-#    Facebook = "JoshuaACasey"
+    Instagram = "progressiveparty_usa"
+#    Facebook = ""
 #    Telegram = ""
 #    Medium = ""
-    Gitlab = "JoshuaACasey"
-    Youtubelegacy = ""
-    Youtubecustom = "JoshuaCasey"
-    Youtubechannel = ""
+#    Gitlab = ""
+#    Youtubelegacy = ""
+#    Youtubecustom = ""
+#    Youtubechannel = ""
 #    Tumblr = ""
 #    Quora = ""
 #    Keybase = ""
 #    Pinterest = ""
-#    Reddit = ""
+    Reddit = ""
 #    Codepen = ""
 #    FreeCodeCamp = ""
 #    Bitbucket = ""
@@ -255,11 +255,11 @@ theme = "DoIt"
 #    VK = ""
 #    Flickr = ""
 #    Xing = ""
-#    Snapchat = ""
+    Snapchat = ""
 #    Soundcloud = ""
-    Spotify = ""
+#    Spotify = ""
 #    Bandcamp = ""
-    Paypal = "JoshuaACasey"
+#    Paypal = ""
 #    Fivehundredpx = ""
 #    Mix = ""
 #    Goodreads = ""
@@ -267,9 +267,9 @@ theme = "DoIt"
 #    Foursquare = ""
 #    Hackernews = ""
 #    Kickstarter = ""
-    Patreon = ""
-    Steam = "JoshuaACasey"
-    Twitch = "JoshuaACasey"
+#    Patreon = ""
+#    Steam = ""
+    Twitch = ""
 #    Strava = ""
 #    Skype = ""
 #    Whatsapp = ""
@@ -290,29 +290,29 @@ theme = "DoIt"
 #    Devto = ""
 #    Gitea = ""
 #    XMPP = ""
-    Matrix = "@JoshuaCasey:matrix.org"
+    Matrix = ""
 #    Bilibili = ""
 #    ORCID = ""
 #    Liberapay = ""
-    Ko-Fi = ""
+#    Ko-Fi = ""
 #    BuyMeACoffee = ""
 #    Linktree = ""
 #    QQ = ""
 #    QQGroup = ""
-    signal = "pBm64iAenxD_oy1awnqwzFlJ_51Sc6eBzxabkrkur53LnpzjFbZLxp45YudATXT3"
-    bluesky = "joshuacasey.net"
-    tiktok = "@JoshuaACasey"
-    keyoxide = "aspe:keyoxide.org:AXPQOMLX2FDPP7TJXNIGOZ47YA"
-    pixelfed = "JoshuaCasey"
+    signal = ""
+    bluesky = ""
+    tiktok = ""
+    keyoxide = ""
+    pixelfed = ""
  #   lemmy = ""
-    discordserver = "38JUvfDpMt"
-    allmylinks = true
-    Email = "joshua@joshuacasey.net"
+    discordserver = ""
+    allmylinks = false
+    Email = "sydney@progressivepartyofamerica.us"
     RSS = true #
-    [params.social.Mastodon]
-      id = "@Nerd_JAC"
-      prefix = "https://aethy.com/"
-      title = "Mastodon"
+#    [params.social.Mastodon]
+#      id = "@"
+#      prefix = ""
+#      title = "Mastodon"
   #  Page config
   [params.page]
     #  whether to hide a page from home page
@@ -410,13 +410,13 @@ theme = "DoIt"
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = false
-      Linkedin = false
+      Facebook = true
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = true
       HackerNews = false
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = true
       Xing = false
@@ -439,7 +439,7 @@ theme = "DoIt"
       Mastodon = true
     #  Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config
       [params.page.comment.disqus]
         #
@@ -514,7 +514,7 @@ theme = "DoIt"
         enable = false
       #  Utterances comment config
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = "JoshuaACasey/joshuacasey.net_comments"
         issueTerm = "pathname"
@@ -610,9 +610,9 @@ theme = "DoIt"
 
   #  Sponsor config
   [params.sponsor]
-    enable = true
+    enable = false
     bio = "If you like this post, please consider supporting me."
-    link = "https://paypal.me/JoshuaACasey" # The link to your sponsor page
+    link = "" # The link to your sponsor page
     custom = "" # Custom HTML button
 
   #  TypeIt config
@@ -729,10 +729,10 @@ theme = "DoIt"
 
 # Author config
 [author]
-  name = "Joshua Casey"
-  email = "joshua@joshuacasey.net"
-  link = "https://joshuacasey.net"
-  avatar = "/profilepic.jpg"
+  name = "Progressive Party of America"
+  email = "joshua@progressivepartyofamerica.us"
+  link = "https://progressivepartyofamerica.us"
+  #avatar = "/profilepic.jpg"
   gravatarEmail = ""
 
 # Sitemap config
