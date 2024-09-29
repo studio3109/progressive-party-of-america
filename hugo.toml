@@ -17,7 +17,7 @@ title = "Progressive Party of America"
 baseURL = "https://progressivepartyofamerica.us"
 
 # theme list
-# theme = ["FixIt"] # enable in your site config file
+theme = "FixIt" # enable in your site config file
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"
@@ -33,6 +33,7 @@ hasCJKLanguage = false
 
 # default amount of posts in each pages
 paginate = 12
+
 # copyright description used only for seo schema
 copyright = "2024-2040 Progressive Party of America"
 
@@ -572,7 +573,7 @@ enableEmoji = true
     GitHub = ""
     Linkedin = ""
     Twitter = ""
-    Instagram = ""
+    Instagram = "progressiveparty_usa"
     Facebook = ""
     Telegram = ""
     Medium = ""
