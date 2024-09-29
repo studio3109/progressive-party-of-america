@@ -164,7 +164,7 @@ theme = "DoIt"
     #  whether to show the author
     author = true
     # Site creation time
-    since = 2013
+    since = 2024
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
