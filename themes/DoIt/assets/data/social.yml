@@ -121,7 +121,7 @@ pinterest:
 # 016: Reddit
 reddit:
   Weight: 16
-  Prefix: https://www.reddit.com/user/
+  Prefix: https://www.reddit.com/r/
   Title: Reddit
   Icon:
     Class: fab fa-reddit fa-fw
