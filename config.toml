@@ -33,7 +33,7 @@ theme = "DoIt"
 
   [[menu.main]]
     identifier = "donate"
-    name = "donate"
+    name = "Donate"
     url = "https://opencollective.com/progressive-party-of-america"
     weight = 999
 #  [[menu.main]]
