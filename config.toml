@@ -285,7 +285,7 @@ theme = "DoIt"
 #    Vine = ""
 #    Googlescholar = ""
 #    Researchgate = ""
-#    Mastodon = ""
+    Mastodon = "@PPOA"
 #    Thingiverse = ""
 #    Devto = ""
 #    Gitea = ""
@@ -309,10 +309,10 @@ theme = "DoIt"
     allmylinks = false
     Email = "sydney@progressivepartyofamerica.us"
     RSS = true #
-    [params.social.Mastodon]
-      id = "@PPOA"
-      prefix = "mastodon.social"
-      title = "Mastodon"
+#    [params.social.Mastodon]
+#      id = "@PPOA"
+#      prefix = "mastodon.social"
+#      title = "Mastodon"
   #  Page config
   [params.page]
     #  whether to hide a page from home page
