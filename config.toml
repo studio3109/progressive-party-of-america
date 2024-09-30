@@ -232,7 +232,7 @@ theme = "DoIt"
   [params.social]
 #    GitHub = ""
 #    Linkedin = ""
-    Twitter = ""
+    Twitter = "PPOA2040"
     Instagram = "progressiveparty_usa"
 #    Facebook = ""
 #    Telegram = ""
@@ -302,17 +302,17 @@ theme = "DoIt"
     signal = ""
     bluesky = ""
     tiktok = ""
-    keyoxide = ""
-    pixelfed = ""
- #   lemmy = ""
+#    keyoxide = ""
+#    pixelfed = ""
+#    lemmy = ""
     discordserver = ""
     allmylinks = false
     Email = "sydney@progressivepartyofamerica.us"
     RSS = true #
-#    [params.social.Mastodon]
-#      id = "@"
-#      prefix = ""
-#      title = "Mastodon"
+    [params.social.Mastodon]
+      id = "@PPOA"
+      prefix = "mastodon.social"
+      title = "Mastodon"
   #  Page config
   [params.page]
     #  whether to hide a page from home page
@@ -610,9 +610,9 @@ theme = "DoIt"
 
   #  Sponsor config
   [params.sponsor]
-    enable = false
-    bio = "If you like this post, please consider supporting me."
-    link = "" # The link to your sponsor page
+    enable = true
+    bio = "Support the movement for a US political party that works for the American people."
+    link = "https://opencollective.com/progressive-party-of-america" # The link to your sponsor page
     custom = "" # Custom HTML button
 
   #  TypeIt config
