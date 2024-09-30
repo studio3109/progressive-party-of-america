@@ -29,7 +29,13 @@ theme = "DoIt"
     identifier = "platform"
     name = "Platform"
     url = "/platform"
-    weight = 1
+    weight = 2
+
+  [[menu.main]]
+    identifier = "volunteer"
+    name = "Volunteer"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLScbrV7vikj0Pryty7IjPNq9fJ7aant_33K4Pw_1P9ukzeJKtA/viewform?edit_requested=truehttps://docs.google.com/forms/d/1cSOd6QLZUqIqVszRTsG-xNuEN437lkDN6pqRilvj8m8"
+    weight = 998
 
   [[menu.main]]
     identifier = "donate"
