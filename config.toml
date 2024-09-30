@@ -26,10 +26,16 @@ theme = "DoIt"
 #    title = "Post archive"
 #    weight = 2
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 3
+    identifier = "platform"
+    name = "Platform"
+    url = "/platform"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "donate"
+    name = "donate"
+    url = "https://opencollective.com/progressive-party-of-america"
+    weight = 999
 #  [[menu.main]]
 #    identifier = "tags"
 #    pre = ""
@@ -305,7 +311,7 @@ theme = "DoIt"
 #    keyoxide = ""
 #    pixelfed = ""
 #    lemmy = ""
-    discordserver = ""
+    discordserver = "utpv9fPu"
     allmylinks = false
     Email = "sydney@progressivepartyofamerica.us"
     RSS = true #
