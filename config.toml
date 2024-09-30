@@ -206,7 +206,7 @@ theme = "DoIt"
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
-      avatarURL = "/profilepic.jpg"
+      avatarURL = "/images/its_time_for_change.jpg"
       # URL the avatar links to
       avatarLinkURL = "https://progressivepartyofamerica.us"
       #  title shown in home page (HTML format is supported)
@@ -601,7 +601,7 @@ theme = "DoIt"
       # Publisher info
       [params.page.seo.publisher]
         name = ""
-        logoUrl = ""
+        logoUrl = "/images/its_time_for_change.jpg"
     #  Related content config
       [params.page.related]
         enable = true
@@ -639,7 +639,7 @@ theme = "DoIt"
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "/images/its_time_for_change.jpg"
     # thumbnail URL
     thumbnailUrl = ""
 
@@ -678,7 +678,7 @@ theme = "DoIt"
     enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
+      message = "This website does not collect any information from any user that visits."
       dismiss = ""
       link = ""
 
