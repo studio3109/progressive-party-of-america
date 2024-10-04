@@ -1,5 +1,5 @@
 ---
-title: "Sydney For America 2040 Campaign platform"
+title: "Sydney For America 2040 Campaign Platform"
 #date: "2019-09-12"
 #author: ""
 #aliases: ["a","b","c","d"]
