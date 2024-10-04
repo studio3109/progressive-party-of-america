@@ -1,5 +1,5 @@
 ---
-title: "Platform"
+title: "Sydney For America 2040 Campaign platform"
 #date: "2019-09-12"
 #author: ""
 #aliases: ["a","b","c","d"]
@@ -7,7 +7,6 @@ slug: "platform"
 show_comments: false
 ---
 
-# Sydney For America 2040 Campaign platform
 ### _From Corporate Greed to Human Need_  
 
 ## Preamble  
