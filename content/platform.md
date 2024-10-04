@@ -187,30 +187,23 @@ the Federal Reserve to manage economic instability by any means necessary, to ke
 
 Since 1776, the United States of America has only been at peace for 17 of nearly 250 years. Every other year, the nation has been involved in war, either a profit-based war for oil or another natural resource, a regime-change war, funding another country’s war, or a plain old war that could have been prevented by acts of diplomacy. Our budget that could be spent more responsibly is dominated by military spending unmatched by no other nation, and even if the military budget decreased by half, we would still have the largest military in the world.  
 
-When she is elected President of the United States, turning the page on a history full of war and writing a new era for the nation, one where conflict is solved by words instead of bullets, with aggressive diplomacy instead of
-endless war, is one of Ms. Satalino’s greatest priorities. She is aware of the amount of influence the presidency has on the nation’s foreign policy and
-the world at large, and while serving as Commander-in-Chief of the United States Armed Forces and the country’s chief diplomat, she seeks to make her mark on the world, creating lasting change that will bring the world to an unprecedented era of peace.  
+When she is elected President of the United States, turning the page on a history full of war and writing a new era for the nation, one where conflict is solved by words instead of bullets, with aggressive diplomacy instead of endless war, is one of Ms. Satalino’s greatest priorities. She is aware of the amount of influence the presidency has on the nation’s foreign policy and the world at large, and while serving as Commander-in-Chief of the United States Armed Forces and the country’s chief diplomat, she seeks to make her mark on the world, creating lasting change that will bring the world to an unprecedented era of peace.  
 
 - More Responsible Government Spending  
 
 The budget of the United States government is spent wastefully, with the military-industrial complex overcharging the Pentagon for parts, the government spending money on unnecessary weapons at exorbitant prices, and a defense strategy with hundreds of bases abroad. There is other wasteful spending as well, such as $6 million to boost Egyptian tourism, $200 million to rich musicians as part of a small business program, and using COVID relief funds to build an 800-room luxury hotel.  
 
-As President of the United States, Ms. Satalino plans to audit the Pentagon
-and every other government agency, slash wasteful spending on war and other matters, and ultimately, free up more money in our budget to spend on her number one priority: the people.  
+As President of the United States, Ms. Satalino plans to audit the Pentagon and every other government agency, slash wasteful spending on war and other matters, and ultimately, free up more money in our budget to spend on her number one priority: the people.  
 
 - End Endless War  
 
 The United States military is currently fighting a naval front in the Israel-Hamas War and has been intervening in the Syrian Civil War since 2014, the Somali Civil War since 2007, and Yemen since 2002. In addition, the United States is currently sending weapons to Israel, Ukraine, Taiwan, and many other countries, in the name of national security. While it is important to keep Americans and the world safe, these wars have accomplished very little, instead harming Americans and citizens of other countries instead of bringing peace.  
 
-As President of the United States and Commander-in-Chief of the United States Armed Forces, Ms. Satalino will serve with one goal: to end endless war. She will seek resolutions to all the conflicts America is currently involved in, aggressively negotiate to bring peace to the world and use the
-United States’s leverage in foreign affairs for good, with the ambitious goal
-of bringing America to a period of peace that hasn’t been seen in quite some
-time.  
+As President of the United States and Commander-in-Chief of the United States Armed Forces, Ms. Satalino will serve with one goal: to end endless war. She will seek resolutions to all the conflicts America is currently involved in, aggressively negotiate to bring peace to the world and use the United States’s leverage in foreign affairs for good, with the ambitious goal of bringing America to a period of peace that hasn’t been seen in quite some time.  
 
 - Reduce the Influence of the Military-Industrial Complex  
 
-The military-industrial complex has been highly influential in American society, lobbying politicians to keep wars going and keeping the American
-military budget high by charging the Pentagon high prices for contracts they do not need. Through the anti-corruption legislation that she hopes to pass and her audits of the Pentagon that will keep the agency from overspending, Ms. Satalino aims to reduce the influence of the military-industrial complex, making the American military stronger and more effective.  
+The military-industrial complex has been highly influential in American society, lobbying politicians to keep wars going and keeping the American military budget high by charging the Pentagon high prices for contracts they do not need. Through the anti-corruption legislation that she hopes to pass and her audits of the Pentagon that will keep the agency from overspending, Ms. Satalino aims to reduce the influence of the military-industrial complex, making the American military stronger and more effective.  
 
 - Stop Arming Repressive Regimes  
 
