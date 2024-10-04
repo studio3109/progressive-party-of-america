@@ -75,7 +75,7 @@ theme = "DoIt"
   # website title
   title = "Progressive Party of America"
   # site description
-  description = ""
+  description = "Dedicated to making life, liberty, and the pursuit of happiness available to everyone."
   # site keywords
   keywords = ["Progressive Party of America", "US political parties", "grassroots movement", "for the people"]
   #  site default theme ("light", "dark", "black", "auto")
@@ -225,7 +225,7 @@ theme = "DoIt"
       #  title shown in home page (HTML format is supported)
       title = "Progressive Party of America"
       # subtitle shown in home page
-      subtitle = "For The People"
+      subtitle = "Dedicated to making life, liberty, and the pursuit of happiness available to everyone. #FromCorporateGreedtoHumanNeed"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
