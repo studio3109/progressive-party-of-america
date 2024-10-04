@@ -77,7 +77,7 @@ theme = "DoIt"
   # site description
   description = "Dedicated to making life, liberty, and the pursuit of happiness available to everyone."
   # site keywords
-  keywords = ["Progressive Party of America", "US political parties", "grassroots movement", "for the people"]
+  keywords = ["Progressive Party of America", "US political parties", "grassroots movement", "for the people","From Corporate Greed to Human Need", "#FromCorporateGreedtoHumanNeed"]
   #  site default theme ("light", "dark", "black", "auto")
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
