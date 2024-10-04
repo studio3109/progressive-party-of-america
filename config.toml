@@ -37,11 +37,11 @@ theme = "DoIt"
     url = "https://docs.google.com/forms/d/1cSOd6QLZUqIqVszRTsG-xNuEN437lkDN6pqRilvj8m8"
     weight = 998
 
-  [[menu.main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://opencollective.com/progressive-party-of-america"
-    weight = 999
+#  [[menu.main]]
+#    identifier = "donate"
+#    name = "Donate"
+#    url = ""
+#    weight = 999
 
 #  [[menu.main]]
 #    identifier = "tags"
