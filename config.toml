@@ -314,7 +314,7 @@ theme = "DoIt"
 #    QQGroup = ""
     signal = ""
     bluesky = "ppoa.bsky.social"
-    tiktok = "@sydneysquad2040"
+    tiktok = "@sydney4america" #@sydneysquad2040
 #    keyoxide = ""
 #    pixelfed = ""
 #    lemmy = ""
@@ -375,7 +375,7 @@ theme = "DoIt"
     #  Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = false
+      enable = true
       #  whether to keep the static table of the contents in front of the post
       keepStatic = true
       # whether to make the table of the contents in the sidebar automatically collapsed
