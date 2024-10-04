@@ -26,7 +26,7 @@ Ms. Satalino knows that a nation built on corporate bribery and lobbying isn’t
 - End Corporate-Funded Lobbying, Super PACs, and Corporate
 Donations to Politicians
 
-As President of the United States, Ms. Satalino and her Progressive Party majority across Congress and state legislatures will pass legislation that forbids corporate-funded lobbying, corporate funding of Super PACS, and corporate donations to politicians. Individual donations to politicians will be limited to $1,000 a year, self-funding campaigns will be limited to $500,000 a year, and it will be deemed illegal for corporate executives to force employees to donate to a particular candidate.  
+As President of the United States, Ms. Satalino and her Progressive Party majority across Congress and state legislatures will pass legislation that forbids corporate-funded lobbying, corporate funding of Super PACS, and corporate donations to politicians. Individual donations to politicians will be limited to \$1,000 a year, self-funding campaigns will be limited to \$500,000 a year, and it will be deemed illegal for corporate executives to force employees to donate to a particular candidate.  
 
 - Outlaw Dark Money  
 
@@ -191,7 +191,7 @@ When she is elected President of the United States, turning the page on a histor
 
 - More Responsible Government Spending  
 
-The budget of the United States government is spent wastefully, with the military-industrial complex overcharging the Pentagon for parts, the government spending money on unnecessary weapons at exorbitant prices, and a defense strategy with hundreds of bases abroad. There is other wasteful spending as well, such as $6 million to boost Egyptian tourism, $200 million to rich musicians as part of a small business program, and using COVID relief funds to build an 800-room luxury hotel.  
+The budget of the United States government is spent wastefully, with the military-industrial complex overcharging the Pentagon for parts, the government spending money on unnecessary weapons at exorbitant prices, and a defense strategy with hundreds of bases abroad. There is other wasteful spending as well, such as \$6 million to boost Egyptian tourism, \$200 million to rich musicians as part of a small business program, and using COVID relief funds to build an 800-room luxury hotel.  
 
 As President of the United States, Ms. Satalino plans to audit the Pentagon and every other government agency, slash wasteful spending on war and other matters, and ultimately, free up more money in our budget to spend on her number one priority: the people.  
 
