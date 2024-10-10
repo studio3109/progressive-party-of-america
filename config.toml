@@ -163,7 +163,7 @@ id = ""
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "PPOA2040" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "/images/its_time_for_change.jpg"
+    default_sharing_image = "/images/pro_green.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
