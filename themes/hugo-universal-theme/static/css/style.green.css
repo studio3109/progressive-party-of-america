@@ -243,8 +243,8 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
-  color: #eeeeee;
+  background: #006700;
+  color: #006700;
   padding: 10px 0;
 }
 #top p {
@@ -256,7 +256,7 @@ ul.list-style-none {
   text-align: right;
 }
 #top .social a {
-  color: #999999;
+  color: #daffdd;
   display: inline-block;
   width: 24px;
   height: 24px;
@@ -267,24 +267,24 @@ ul.list-style-none {
 }
 #top .social a:hover {
   color: #fff;
-  background: var(--primary-accent);
+  background: var(--link-focus);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 #top .social a:hover.facebook {
-  background-color: #4460ae;
+  background-color: #008d10;
 }
 #top .social a:hover.gplus {
-  background-color: #c21f25;
+  background-color: #008d10;
 }
 #top .social a:hover.twitter {
-  background-color: #3cf;
+  background-color: #008d10;
 }
 #top .social a:hover.instagram {
-  background-color: #cd4378;
+  background-color: #008d10;
 }
 #top .social a:hover.email {
-  background-color: #4a7f45;
+  background-color: #008d10;
 }
 #top .login {
   float: right;
@@ -341,7 +341,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.active > a {
   border-top: solid 5px var(--navbar-border-top);
   background: #fff !important;
-  color: #555555 !important;
+  color: #006700 !important;
 }
 .navbar.navbar-light ul.nav > li.active > a:hover {
   border-top: solid 5px var(--navbar-border-top);
@@ -352,7 +352,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.open > a:focus {
   border-top: solid 5px var(--primary-accent);
   background: #fff !important;
-  color: #555555 !important;
+  color: #006700 !important;
 }
 .navbar ul.dropdown-menu {
   margin: 0;
