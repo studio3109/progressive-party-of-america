@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@400;700&display=swap');
 
+
 /* Themed colors */
 :root {
   --primary-accent: #006700;
@@ -194,13 +195,13 @@ ul.list-style-none {
   letter-spacing: 0.08em;
 }
 .pages-listing .item h3 a {
-  color: #555555;
+  color: #006700;
 }
 .pages-listing .item .text {
   margin-bottom: 20px;
 }
 .pages-listing .item .text p {
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
   margin-bottom: 20px;
 }
@@ -307,11 +308,11 @@ ul.list-style-none {
 }
 #top.light {
   background: #fff;
-  color: #999999;
+  color: #008d10;
   border-bottom: solid 1px #eeeeee;
 }
 #top.light .login a {
-  color: #555555;
+  color: #006700;
 }
 .navbar {
   border: none;
@@ -369,7 +370,7 @@ ul.list-style-none {
 }
 .navbar ul.dropdown-menu li a {
   position: relative;
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
   display: block;
   -webkit-transition: all 0.2s ease-out;
@@ -396,7 +397,7 @@ ul.list-style-none {
   text-transform: uppercase;
   padding-bottom: 10px;
   margin-top: 5px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #006700;
   letter-spacing: 0.08em;
 }
 @media (max-width: 767px) {
@@ -407,7 +408,7 @@ ul.list-style-none {
 .navbar .yamm-content h5 {
   text-transform: uppercase;
   padding-bottom: 10px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #006700;
   letter-spacing: 0.08em;
 }
 .navbar .yamm-content ul {
@@ -422,7 +423,7 @@ ul.list-style-none {
 }
 .navbar .yamm-content ul li a {
   position: relative;
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
   display: block;
   -webkit-transition: all 0.2s ease-out;
@@ -453,7 +454,7 @@ ul.list-style-none {
 }
 .navbar .btn-default,
 .navbar .btn-default.navbar-toggle {
-  color: #999999;
+  color: #008d10;
   background-color: #fff;
   margin-left: 7px;
   margin-right: 0;
@@ -525,7 +526,7 @@ ul.list-style-none {
 /* buttons  */
 .btn {
   font-weight: 700;
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 6px 12px;
@@ -750,7 +751,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 #intro .item {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   height: 100%;
 }
 #intro .item h1 {
@@ -914,7 +915,7 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 15px;
   height: 15px;
-  border: solid 1px #555555;
+  border: solid 1px #006700;
   vertical-align: top;
   margin-top: 2px;
   margin-left: 5px;
@@ -935,11 +936,11 @@ fieldset[disabled] .btn-template-primary.active {
   background: yellow;
 }
 .panel.sidebar-menu .panel-body label {
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
 }
 .panel.sidebar-menu .panel-body label:hover {
-  color: #555555;
+  color: #006700;
 }
 .panel.sidebar-menu ul.nav.category-menu {
   margin-bottom: 20px;
@@ -948,7 +949,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .panel.sidebar-menu ul.nav.category-menu li a {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }
 .panel.sidebar-menu ul.nav ul {
   list-style: none;
@@ -966,7 +967,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 10px 15px;
   padding-left: 30px;
   font-size: 12px;
-  color: #999999;
+  color: #008d10;
 }
 .panel.sidebar-menu ul.nav ul li a:hover,
 .panel.sidebar-menu ul.nav ul li a:focus {
@@ -1055,7 +1056,7 @@ fieldset[disabled] .btn-template-primary.active {
 .panel.sidebar-menu ul.recent li p.date {
   float: right;
   font-size: 12px;
-  color: #999999;
+  color: #008d10;
 }
 .panel.sidebar-menu ul.popular li:last-child,
 .panel.sidebar-menu ul.recent li:last-child {
@@ -1091,7 +1092,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 30px 10px 10px -71px;
   color: #fff;
   background-color: var(--primary-accent);
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }
 .ribbon .theribbon:before,
 .ribbon .theribbon:after {
@@ -1300,7 +1301,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
 }
 .testimonials .item .testimonial .text {
-  color: #999999;
+  color: #008d10;
   margin-bottom: 40px;
 }
 .testimonials .item .testimonial .bottom {
@@ -1331,7 +1332,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .testimonials .item .testimonial .name-picture p {
-  color: #999999;
+  color: #008d10;
   margin: 0;
   font-size: 12px;
 }
@@ -1352,10 +1353,10 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .team-member h3 a {
-  color: #555555;
+  color: #006700;
 }
 .team-member p.role {
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -1398,7 +1399,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #4a7f45;
 }
 .team-member .text p {
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
 }
 .team-member .social,
@@ -1462,15 +1463,15 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #006700;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
 .box-simple h3 a {
-  color: #555555;
+  color: #006700;
 }
 .box-simple p {
-  color: #999999;
+  color: #008d10;
 }
 .box-simple:hover .icon {
   -webkit-transform: scale(1.1, 1.1);
@@ -1486,17 +1487,17 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-simple.box-white {
   padding: 20px;
-  border: dotted 1px #999999;
+  border: dotted 1px #008d10;
 }
 .box-simple.box-white .icon {
-  color: #555555;
+  color: #006700;
   border-color: transparent;
   font-size: 70px;
 }
 .box-simple.box-dark {
   padding: 20px;
-  border: dotted 1px #999999;
-  background: #555555;
+  border: dotted 1px #008d10;
+  background: #006700;
   color: #fff;
 }
 .box-simple.box-dark .icon {
@@ -1651,12 +1652,12 @@ fieldset[disabled] .btn-template-primary.active {
 .box-image-text .content h4 {
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #006700;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
 .box-image-text .content p {
-  color: #999999;
+  color: #008d10;
 }
 .box-image-text:hover .bg {
   opacity: 0.7;
@@ -1773,14 +1774,14 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .bar.background-pentagon {
   background: url('../img/texture-green.png') center center repeat;
-  border-top: solid 1px #999999;
-  border-bottom: solid 1px #999999;
+  border-top: solid 1px #008d10;
+  border-bottom: solid 1px #008d10;
 }
 .bar.background-gray {
   background: #eeeeee;
 }
 .bar.background-gray-dark {
-  background: #555555;
+  background: #006700;
 }
 .bar.background-white {
   background: #fff;
@@ -1832,7 +1833,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 -15px;
 }
 .portfolio-project .project-more h4 {
-  color: #555555;
+  color: #006700;
   text-transform: uppercase;
   margin-bottom: 0;
   text-align: left;
@@ -1840,7 +1841,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .portfolio-project .project-more p {
-  color: #999999;
+  color: #008d10;
   padding: 10px 0;
   margin-bottom: 20px;
   text-align: left;
@@ -1854,11 +1855,11 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .portfolio-showcase p.lead {
-  color: #555555;
+  color: #006700;
   margin-bottom: 20px;
 }
 .portfolio-showcase p {
-  color: #999999;
+  color: #008d10;
 }
 .portfolio-showcase p.buttons {
   margin-top: 40px;
@@ -1880,13 +1881,13 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 50px;
   height: 50px;
-  color: #555555;
+  color: #006700;
   line-height: 50px;
   border-radius: 25px;
-  border: solid 1px #555555;
+  border: solid 1px #006700;
 }
 .showcase .item h4 {
-  color: #555555;
+  color: #006700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   line-height: 1.5;
@@ -1923,7 +1924,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .packages .package .package-header.light-gray h5 {
-  color: #555555;
+  color: #006700;
 }
 .packages .package .price {
   line-height: 120px;
@@ -1939,7 +1940,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .packages .package .price .period {
   line-height: normal;
-  color: #999999;
+  color: #008d10;
 }
 .packages .package ul {
   padding: 0;
@@ -2000,7 +2001,7 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-homepage .post h2 a,
 #blog-listing-big .post h4 a,
 #blog-homepage .post h4 a {
-  color: #555555;
+  color: #006700;
 }
 #blog-listing-big .post h2 a:hover,
 #blog-homepage .post h2 a:hover,
@@ -2010,7 +2011,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #blog-listing-big .post .author-category,
 #blog-homepage .post .author-category {
-  color: #999999;
+  color: #008d10;
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 0.08em;
@@ -2021,7 +2022,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #blog-listing-big .post .date-comments a,
 #blog-homepage .post .date-comments a {
-  color: #999999;
+  color: #008d10;
   margin-right: 20px;
 }
 #blog-listing-big .post .date-comments a:hover,
@@ -2073,14 +2074,14 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 #blog-listing-medium .post h2 a {
-  color: #555555;
+  color: #006700;
 }
 #blog-listing-medium .post h2 a:hover {
   color: var(--primary-accent);
 }
 #blog-listing-medium .post .author-category {
   float: left;
-  color: #999999;
+  color: #008d10;
   text-transform: uppercase;
   font-weight: 300;
   font-size: 12px;
@@ -2094,7 +2095,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 #blog-listing-medium .post .date-comments a {
-  color: #999999;
+  color: #008d10;
   margin-right: 20px;
 }
 #blog-listing-medium .post .date-comments a:hover {
@@ -2157,7 +2158,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-align: right;
 }
 .box-image-text.blog .author-category {
-  color: #999999;
+  color: #008d10;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 300;
@@ -2211,11 +2212,11 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
 }
 #blog-post .comment .posted {
-  color: #999999;
+  color: #008d10;
   font-size: 12px;
 }
 #blog-post .comment .reply {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }
 #blog-post .comment.last {
   margin-bottom: 0;
@@ -2289,7 +2290,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .product .text h3 a {
-  color: #555555;
+  color: #006700;
 }
 .product .text h3 a:hover {
   text-decoration: none;
@@ -2298,7 +2299,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
 }
 .product .text p.price del {
-  color: #999999;
+  color: #008d10;
 }
 .product .buttons {
   clear: both;
@@ -2342,7 +2343,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 40px;
 }
 .goToDescription a {
-  color: #999999;
+  color: #008d10;
   text-decoration: underline;
 }
 #productMain {
@@ -2364,7 +2365,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-radius: 40px;
   background: #ccc;
   line-height: 40px;
-  color: #555555;
+  color: #006700;
   text-align: center;
   text-decoration: none;
   font-family: 'Darker Grotesque', sans-serif;
@@ -2454,12 +2455,12 @@ fieldset[disabled] .btn-template-primary.active {
   margin-top: 20px;
 }
 #order-summary table td {
-  color: #999999;
+  color: #008d10;
 }
 #order-summary table tr.total td,
 #order-summary table tr.total th {
   font-size: 18px;
-  color: #555555;
+  color: #006700;
   font-weight: 700;
 }
 #checkout .table tbody tr td,
@@ -2528,9 +2529,9 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #006700;
   padding: 50px 0;
-  color: #999999;
+  color: #008d10;
 }
 #footer h1,
 #footer h2,
@@ -2551,7 +2552,7 @@ fieldset[disabled] .btn-template-primary.active {
   list-style: none;
 }
 #footer ul a {
-  color: #999999;
+  color: #008d10;
 }
 #footer ul a:hover {
   color: var(--primary-accent);
@@ -2585,7 +2586,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
   padding: 5px 0;
   margin-bottom: 10px;
-  border-bottom: solid 1px #555555;
+  border-bottom: solid 1px #006700;
 }
 #footer .blog-entries .item .image {
   float: left;
@@ -2616,7 +2617,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #footer .social a {
-  color: #555555;
+  color: #006700;
   font-size: 25px;
   margin: 0 10px 0 0;
 }
@@ -2673,7 +2674,7 @@ fieldset[disabled] .btn-template-primary.active {
 /* Original Boostrap template overwrite */
 /* breadcrumbs */
 .breadcrumb {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   text-transform: uppercase;
   background-color: none;
   letter-spacing: 0.08em;
@@ -2687,11 +2688,11 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #eeeeee;
 }
 .nav > li.disabled > a {
-  color: #999999;
+  color: #008d10;
 }
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #999999;
+  color: #008d10;
 }
 .nav .open > a,
 .nav .open > a:hover,
@@ -2718,7 +2719,7 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555555;
+  color: #006700;
   background-color: #ffffff;
   border: 1px solid var(--primary-accent);
   border-bottom-color: transparent;
@@ -3085,7 +3086,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: none;
 }
 .navbar-default .navbar-brand {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -3096,11 +3097,11 @@ fieldset[disabled] .btn-template-primary.active {
   color: #777777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #555555;
+  color: #006700;
   background-color: var(--navbar-focus);
 }
 .navbar-default .navbar-nav > .active > a,
@@ -3137,7 +3138,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #555555;
+    color: #006700;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -3157,17 +3158,17 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default .navbar-link {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .navbar-link:hover {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .btn-link {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #555555;
+  color: #006700;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -3177,10 +3178,10 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #006700;
 }
 a {
   color: var(--primary-accent);
@@ -3215,10 +3216,10 @@ hr {
 }
 .breadcrumb > li + li:before {
   content: ">\00a0";
-  color: #555555;
+  color: #006700;
 }
 .breadcrumb > .active {
-  color: #999999;
+  color: #008d10;
 }
 @media (max-width: 991px) {
   .breadcrumb {
@@ -3255,7 +3256,7 @@ hr {
 }
 /* labels */
 .label {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -3285,7 +3286,7 @@ label {
   padding-top: 20px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
 }
 .pager li {
   display: inline;
@@ -3306,14 +3307,14 @@ label {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #999999;
+  color: #008d10;
   background-color: #ffffff;
   border-color: #ddd;
 }
 /* pagination */
 .pagination {
   margin: 20px 0;
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   border-radius: 0;
 }
 .pagination > li > a,
@@ -3350,7 +3351,7 @@ label {
 .pagination > .disabled > a,
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
-  color: #999999;
+  color: #008d10;
   background-color: #ffffff;
   border-color: #dddddd;
 }
@@ -3388,7 +3389,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Darker Grotesque', sans-serif;
+  font-family: "Darker Grotesque", sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #333333;
@@ -3438,7 +3439,7 @@ a.bg-primary:hover {
 }
 abbr[title],
 abbr[data-original-title] {
-  border-bottom: 1px dotted #999999;
+  border-bottom: 1px dotted #008d10;
 }
 blockquote {
   padding: 10px 20px;
@@ -3452,7 +3453,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #999999;
+  color: #008d10;
 }
 blockquote footer:before,
 blockquote small:before,
