@@ -1,7 +1,7 @@
 baseurl = "https://progressivepartyofamerica.us" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Progressive Party of America"
 theme = "hugo-universal-theme"
-#themesDir = "../.."
+themesDir = "../.."
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -32,11 +32,11 @@ id = ""
     url        = "/"
     weight     = 1
 
-#[[menu.main]]
-#    name       = "Platform"
-#    url        = "/platform"
-#    weight     = 1
-#    parent     = "menu.home"
+[[menu.main]]
+    name       = "Platform"
+    url        = "/platform"
+    weight     = 1
+    parent     = "menu.home"
 
 #[[menu.main]]
 #    name       = "Option 2: Application"
@@ -63,34 +63,72 @@ id = ""
 #    parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Platform"
-    identifier = "platform"
-    url        = "/platform/"
+    name       = "About"
+    identifier = "section.about"
+    url        = ""
     weight     = 2
+    parent     = "menu.portfolio"
+    post       = 2
 
 [[menu.main]]
-    name       = "Volunteer"
-    identifier = "volunteer"
-    url        = "https://docs.google.com/forms/d/1cSOd6QLZUqIqVszRTsG-xNuEN437lkDN6pqRilvj8m8"
+    name       = "About Us"
+    url        = ""
+    weight     = 1
+    parent     = "section.about"
+
+[[menu.main]]
+    name       = "Our Team"
+    url        = ""
+    weight     = 2
+    parent     = "section.about"
+
+[[menu.main]]
+    name       = "Contact"
+    identifier = "section.ap-contact"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Pages"
+    identifier = "section.ap-pages"
+    url        = ""
+    weight     = 2
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "section.ap-blog"
+    url        = "/blog/"
     weight     = 3
+    parent     = "menu.allpages"
+    post       = 4
 
-#[[menu.main]]
-#    name       = "Blog"
-#    identifier = "menu.blog"
-#    url        = "/blog/"
-#    weight     = 5
+[[menu.main]]
+    name       = "Blog Listing Big"
+    url        = "/blog/"
+    weight     = 1
+    parent     = "section.ap-blog"
 
-#[[menu.main]]
-#    name       = "FAQ"
-#    identifier = "menu.faq"
-#    url        = "/faq/"
-#    weight     = 6
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 5
 
-#[[menu.main]]
-#    identifier = "contact"
-#    name       = "Contact"
-#    url        = "/contact/"
-#    weight     = 7
+[[menu.main]]
+    name       = "FAQ"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 6
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 7
 
 
 # Top bar social links menu
@@ -101,17 +139,17 @@ id = ""
 #    url = "tel:+12 34 567 89 01"
 #    pre = "<i class='fas fa-2x fa-phone'></i>"
 
-[[menu.topbar]]
-    weight = 2
-    name = "Instagram"
-    url = "https://www.instagram.com/progressiveparty_usa"
-    pre = "<i class='fab fa-2x fa-instagram'></i>"
+#[[menu.topbar]]
+#    weight = 2
+#    name = "GitHub"
+#    url = "https://github.com/devcows/hugo-universal-theme"
+#    pre = "<i class='fab fa-2x fa-github'></i>"
 
-[[menu.topbar]]
-    weight = 3
-    name = "Tiktok"
-    url = "https://www.tiktok.com/@sydney4america"
-    pre = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d='M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z'/></svg>"
+#[[menu.topbar]]
+#    weight = 3
+#    name = "Facebook"
+#    url = "http://facebook.com"
+#    pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
@@ -121,34 +159,6 @@ id = ""
 
 [[menu.topbar]]
     weight = 5
-    name = "Mastodon"
-    url = "https://mastodon.social/@PPOA"
-    pre = "<i class='fab fa-2x fa-mastodon'></i>"
-
-[[menu.topbar]]
-    weight = 6
-    name = "Bluesky"
-    url = "https://bsky.app/profile/ppoa.bsky.social"
-    pre = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill='#74C0FC' d='M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z'/></svg>"
-[[menu.topbar]]
-    weight = 7
-    name = "Reddit"
-    url = "https://www.reddit.com/r/USAprogressiveparty"
-    pre = "<i class='fab fa-2x fa-reddit'></i>"
-[[menu.topbar]]
-    weight = 8
-    name = "Discord"
-    url = "https://discord.gg/5gmTgZT4Qg"
-    pre = "<i class='fab fa-2x fa-discord'></i>"
-
-#[[menu.topbar]]
-#    weight = 9
-#    name = "Facebook"
-#    url = ""
-#    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 10
     name = "Email"
     url = "mailto:sydney@progressivepartyofamerica.us"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
@@ -163,7 +173,7 @@ id = ""
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "PPOA2040" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "/images/its_time_for_change.jpg"
+    default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
@@ -217,11 +227,11 @@ id = ""
 
     dropdown_mouse_over = false
 
-    disabled_logo = false
+    disabled_logo = true
     logo_text = "Progressive Party of America"
 
-    logo = "/images/green_icon.png"
-    logo_small = "/images/pro_green.png"
+    logo = "images/its_time_for_change.png"
+    logo_small = "images/its_time_for_change.png"
     contact_url = "/contact"
 #    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
 #        <br>13/25 New Avenue
@@ -238,13 +248,12 @@ id = ""
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
-    text = ""
-#    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-#      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-#      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-#      </p>
-#      """
+    enable = false
+    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+      """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -253,7 +262,7 @@ id = ""
     search = true
 
 [params.carouselCustomers]
-    items = 1
+    items = 6
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
@@ -268,7 +277,7 @@ id = ""
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
-    enable = true
+    enable = false
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
@@ -305,7 +314,7 @@ id = ""
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "From our blog"
     subtitle = ""
     hide_summary = true
